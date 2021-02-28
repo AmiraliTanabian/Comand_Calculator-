@@ -19,7 +19,7 @@ def Calculator():
         ************''',num1 * num2)
     Again()        
 def Again() :
-    Num_again = input('''aya mikay ke dobare barname rub eshe 
+    Num_again = input('''Do you want to run the program again? 
     Y for Yes
     N for No | :''')
     if Num_again.upper() == 'Y' : 
