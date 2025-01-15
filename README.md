@@ -5,4 +5,4 @@ Comand Calculator for you can Calc main math operator (+,*,/,-) you Enter Number
 for use the GUI code you need to PyQt6 
 ``` pip install PyQt6 ```
 
-*For open ui.ui you need Qt Desinger*
+**For open ui.ui you need Qt Desinger**
